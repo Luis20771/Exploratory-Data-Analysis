@@ -19,4 +19,6 @@ Este trabalho destacou a importância do Ideb como um indicador robusto para o m
  .basedosdados: para baixar os dados em um dataframe pandas
 
 # Fontes:
-Base dos Dados
+.basedosdados: Essa biblioteca é utilizada para baixar os dados em um DataFrame do pandas. Ela oferece uma interface simples para acessar dados públicos disponíveis na plataforma Base dos Dados (https://basedosdados.org/).
+    
+.gov.br: é utilizado pelo governo brasileiro para identificar websites de instituições governamentais (https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb)
